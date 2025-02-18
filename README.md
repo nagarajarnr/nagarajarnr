@@ -1,5 +1,5 @@
 
-Hi, I'm Padmakar Pilladi! 👋
+Hi, I'm Nagaraja Ramisetty! 👋
 About Me 🚀
 🚀 DevOps Engineer | Cloud & Automation Enthusiast
 As a DevOps Engineer, I specialize in AWS, Linux, Shell Scripting, Jenkins, Docker, Kubernetes, and Ansible, ensuring efficient and automated workflows for seamless software development and deployment. My passion lies in optimizing infrastructure, automating processes, and enhancing CI/CD pipelines to drive reliability and scalability.
