@@ -49,14 +49,13 @@ I’m always excited to contribute to open-source DevOps projects, collaborate o
 ✨ **Building, automating, and scaling—one pipeline at a time!** 🚀  
 
 ## DevOps Skills 🛠️
-![DevOps Animation](https://github.com/your-username/your-repo/blob/main/assets/devops-snake.gif)
+![DevOps Animation](https://github.com/nagarajarnr/nagarajarnr/blob/main/assets/devops-snake.gif)
 
 Linux | AWS | Azure | Ansible | Terraform | Jenkins | Docker | Python | Git | Kubernetes  
 
 **🐍 Leveraging All Amazing Automation Tools, Just Deploying Perfectly Good Kubernetes**  
 
 ### Let's Connect! 🌐  
-
 ---
 
 This version keeps it concise, professional, and engaging while making it easier to read. Let me know if you'd like any further tweaks! 🚀
